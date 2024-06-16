@@ -1,5 +1,12 @@
 .vs/
 bin/
 bin-int/
+Hazel/*.vcxproj
+Hazel/*.filters
+Hazel/*.user
+Sandbox/*.vcxproj
+Sandbox/*.filters
+Sandbox/*.user
 
 *.user
+*.sln
